@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Soneja</h1>
-<h3 align="center">an aspiring web based developer as well as a data analyst who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have appreciable technical skills and an academic background in engineering, statistics, and web technologies.</h3>
+<h3 align="center">an aspiring web based developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonejamohit&label=Profile%20views&color=0e75b6&style=flat" alt="sonejamohit" /> </p>
 
